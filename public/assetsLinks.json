@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.hankofiles",
+      "sha256_cert_fingerprints":
+      ["12:03:7D:1B:0E:90:A4:A5:0E:C3:E4:F9:74:E4:85:03:5A:F6:12:B3:A8:D0:12:C5:63:4F:AF:3B:62:91:0D:EB"]
+    }
+  }]
+  
