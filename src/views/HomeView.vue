@@ -36,9 +36,9 @@ const SVGArrowDown = defineAsyncComponent(() => import("@/components/icons/SVGAr
         </div>
       </div>
       <div class="mx-auto text-center">
-        <button class="border border-white px-4 py-2 hover:bg-white hover:text-black">
+        <RouterLink download to="@/assets/van-files.apk" class="border border-white px-4 py-2 hover:bg-white hover:text-black">
           Get the App
-        </button>
+        </RouterLink>
       </div>
     </div>
   </div>
